@@ -1,8 +1,10 @@
-## Benjamin Dickman
+## Benjamin Hunter
+
+Formerly known as Benjamin Dickman
 
 I'm a full stack developer working at Vivian Health.  Currently focusing on Node and React at Nursefly while using Golang and Vue/Nuxt on everthing else.
 
-Reach out to me on [bendickman.com](https://bendickman.com).
+Reach out to me on [linkedin](https://www.linkedin.com/in/benhenryhunter/)
 
 ```
 *****************************************************************************************************************
