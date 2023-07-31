@@ -2,7 +2,7 @@
 
 Formerly known as Benjamin Dickman
 
-I'm a full stack developer working at Vivian Health.  Currently focusing on Node and React at Nursefly while using Golang and Vue/Nuxt on everthing else.
+I'm a Senior Developer working at bloXroute Labs.  Currently focusing on MEV, defi, and PBS building inside of Geth using Go.
 
 Reach out to me on [linkedin](https://www.linkedin.com/in/benhenryhunter/)
 
