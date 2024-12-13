@@ -2,7 +2,7 @@
 
 Formerly known as Benjamin Dickman
 
-I'm a Senior Developer working at bloXroute Labs.  Currently focusing on MEV, defi, and PBS building inside of Geth using Go.
+I'm the VP of Engineering working at BTCS Inc. (Nasdaq $BTCS).  Currently focusing on MEV, Pre-Confs, learning Rust, and drinking coffee.
 
 Reach out to me on [linkedin](https://www.linkedin.com/in/benhenryhunter/)
 
